@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+const rmoid = require(`${__dirname}/../rmoid`);
+console.log(rmoid());

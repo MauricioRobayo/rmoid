@@ -1,0 +1,29 @@
+{
+  "name": "rmoid",
+  "version": "1.0.1",
+  "description": "Random MongoDB ObjectId generator",
+  "main": "rmoid.js",
+  "bin": {
+    "rmoid": "./bin/rmoid"
+  },
+  "keywords": [
+    "MongoDB ObjectId",
+    "ObjectId",
+    "random",
+    "generator",
+    "random generator"
+  ],
+  "author": "Mauricio Robayo <rfmajo@gmail.com> (https://www.mauriciorobayo.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauricioRobayo/rmoid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MauricioRobayo/rmoid/issues"
+  },
+  "homepage": "https://www.mauriciorobayo.com/random-mongodb-objectid-generator/",
+  "files": [
+    "rmoid.js"
+  ]
+}
