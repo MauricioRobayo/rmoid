@@ -24,7 +24,7 @@ npx rmoid
 
 ## UI
 
-[Random MongoDB ObjectId Generator](https://www.mauriciorobayo.com/random-mongodb-objectid-generator/)
+[Random MongoDB ObjectId Generator](https://mauriciorobayo.github.io/random-mongodb-objectid-generator/)
 
 ## Acknowledgments
 
